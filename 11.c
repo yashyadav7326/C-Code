@@ -7,13 +7,11 @@ int main(){
     int e = 85;
     printf("account = %d\n",a);
     printf("eco = %d\n",b);
-    printf("business= %d\n",c);
+    printf("business= %d\n",c); 
     printf("english = %d\n",d);
     printf("hindi = %d\n",e);
 
     printf("persenateg = %d",(a+b+c+d+e/5));
     return 0;
-
-
 
 }
